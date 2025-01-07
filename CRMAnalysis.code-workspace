@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../CRMAnalysis"
+		},
+		{
+			"path": "../../Downloads/openai-llm-main"
+		}
+	],
+	"settings": {
+		"commentTranslate.hover.enabled": true
+	}
+}
