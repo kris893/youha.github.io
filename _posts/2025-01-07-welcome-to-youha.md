@@ -2,7 +2,7 @@
 title: "YOUHA 블로그를 시작하며"
 excerpt: "데이터, AI 그리고 한국의 전통문화가 만나는 공간"
 categories:
-  - Tech
+  - About
 tags:
   - 소개
   - 시작하기
